@@ -2,8 +2,10 @@
 
 <h1 align="center">✨ Frendy Ardiansyah ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=🎓+Computer+Engineering+Student;💻+Fullstack+Developer;🧠+Backend+Developer;🎨+Frontend+Developer" alt="Typing SVG" />
+  💻 Fullstack Developer &nbsp;|&nbsp; 🎓 Computer Engineering Student <br />
+  🧠 Backend Developer &nbsp;|&nbsp; 🎨 Frontend Developer
 </p>
+
 
 
 
